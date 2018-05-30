@@ -4,7 +4,7 @@ from collections import defaultdict
 
 
 def get_user_input():
-    year = "2017"  # input("Year: ")
+    year = "2018"  # input("Year: ")
     level = "Lower-Division"  # input("Level: ")
     department = "ALL"  # input("Department: ")
     program = input("Program: ")
